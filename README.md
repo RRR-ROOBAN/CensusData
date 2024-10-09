@@ -11,11 +11,13 @@ Data Transformation: Standardize and clean the data by handling missing values, 
 Data Loading: Store the transformed data into a MySQL database, using a dynamic table creation approach to adapt to changing data structures.
 Data Analysis: Perform SQL-based analysis on the structured census data, extracting insights such as population trends, demographics, and regional distributions.
 Visualization & Reporting: Use Streamlit to build an interactive interface for users to explore data insights visually. Users can run SQL queries and visualize results in real-time, providing a user-friendly way to interact with the data.
+
+
 Technologies Used:
 
-MongoDB for storing raw census data.
-MySQL for structured data storage and analysis.
-Python for data extraction, transformation, and interaction with databases.
-Streamlit for building an interactive dashboard for data visualization and user interaction.
-VS Code as the development environment, integrated with Git for version control.
-Objective: The primary goal of this project is to create a robust pipeline for processing census data, making it easier to analyze and gain actionable insights. By standardizing the data and providing a user-friendly interface for analysis, the project empowers users to make data-driven decisions based on accurate and comprehensive census information.
+#MongoDB for storing raw census data.
+#MySQL for structured data storage and analysis.
+#Python for data extraction, transformation, and interaction with databases.
+#Streamlit for building an interactive dashboard for data visualization and user interaction.
+#VS Code as the development environment, integrated with Git for version control.
+#Objective: The primary goal of this project is to create a robust pipeline for processing census data, making it easier to analyze and gain actionable insights. By standardizing the data and providing a user-
